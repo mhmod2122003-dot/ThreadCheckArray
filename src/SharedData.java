@@ -1,5 +1,6 @@
 public class SharedData 
 {
+	// mlk 5tyrar////
 	private int [] array;
 	private boolean [] winArray;
 	private boolean flag;
